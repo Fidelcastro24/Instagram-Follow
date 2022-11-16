@@ -18,5 +18,6 @@ Pembuat R1punk
     $ python RunTools.py
 
 # Subscribe To Our YouTube 
-YouTube:https://youtube.com/c/FidelCastroMoDs
+https://youtube.com/c/FidelCastroMoDs
 
+Fidel Castro ©
