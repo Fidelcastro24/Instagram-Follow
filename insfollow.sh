@@ -1,7 +1,7 @@
 #!/bin/bash
-# insfollow v2.0
-# recoded by: Termux Professor
-# github.com/termuxprofessor/insfollow
+# instagramfollow v2.0
+# recoded by: Fidel Castro 
+# https://github.com/Fidelcastro24/Instagram-Follow
 # If you use any part from this code, give me the credits, please, read the License
 
 clear
