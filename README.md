@@ -8,12 +8,12 @@ Pembuat R1punk
     $ pkg install git
     $ pkg install python3
     $ git clone https://github.com/Fidelcastro24/Instagram-Follow
-    $ cd RunTools.py
+    $ cd InstaTools
     $ pip3 install -r requirements.txt
     $ python RunTools.py
 
 # Update Tools :
-    $ cd $HOME/Instagram-Follow
+    $ cd $HOME/InstaTools
     $ git pull
     $ python RunTools.py
 
