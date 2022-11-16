@@ -3,7 +3,7 @@ Tools Ini Digunakan Untuk Nambah Followers Instragram Bisa Permanen Bisa Trial -
 Gunakan Dengan Bijak Tools Ini 
 Pembuat R1punk 
 
-# Perintah :
+# Commands / Perintah :
     $ pkg update && pkg upgrade
     $ pkg install git
     $ pkg install python3
