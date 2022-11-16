@@ -7,7 +7,7 @@ Pembuat R1punk
     $ pkg update && pkg upgrade
     $ pkg install git
     $ pkg install python3
-    $ git clone https://github.com/AzzamCyber/InstaTools
+    $ git clone https://github.com/Fidelcastro24/Instagram-Follow
     $ cd InstaTools
     $ pip3 install -r requirements.txt
     $ python RunTools
@@ -17,7 +17,6 @@ Pembuat R1punk
     $ git pull
     $ python RunTools.py
 
-# Follow Social Media AzzamCyber
-IG : @dutahacker
-TIK TOK : @AzzamCyber
+# Subscribe To Our YouTube 
+YouTube:https://youtube.com/c/FidelCastroMoDs
 
