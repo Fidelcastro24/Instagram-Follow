@@ -12,7 +12,7 @@ Pembuat R1punk
     $ python RunTools.py
 
 # Update Tools :
-    $ cd $HOME/InstaTools
+    $ cd $HOME/Instagram-Follow
     $ git pull
     $ python RunTools.py
 
