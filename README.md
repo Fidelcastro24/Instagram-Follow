@@ -4,12 +4,15 @@ These Tools Are Used To Add Instagram Followers Can Be Permanent Can Be Trial - 
   
 # Commands :
   $ pkg update && pkg upgrade
+
   $ pkg install python3
+
   $ termux-setup-storage
 
 (if there is a pop up, just allow it.)
 
   $ cd storage
+
   $ ls
  
 Then a folder will appear where you saved the tools file.  After that type the command
