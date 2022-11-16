@@ -4,18 +4,36 @@ Gunakan Dengan Bijak Tools Ini
 Pembuat R1punk 
 
 # Commands :
-    $ pkg update && pkg upgrade
-    $ pkg install git
-    $ pkg install python3
-    $ git clone https://github.com/Fidelcastro24/Instagram-Follow
-    $ cd InstaTools
-    $ pip3 install -r requirements.txt
-    $ python RunTools.py
+    Perintah  Untuk Menjalankan Tools Auto FOLLOWERS IG
 
-# Update Tools :
-    $ cd $HOME/InstaTools
-    $ git pull
-    $ python RunTools.py
+
+$pkg update && pkg upgrade
+$pkg install python3
+$termux-setup-storage
+
+(jika ada Pop up Ijinkan Saja Ya Guys.)
+
+$ cd storage
+$ls
+ 
+Lalu Nanti akan Tampil Folder dimana kamu Menyimpan File toolsnya. Setelah Itu ketik perintah
+
+$pip2 install -r requirement.txt
+
+(Jika itu gagal) ketik yg di bawah ini
+
+$pip install -r reqruitmen.txt
+
+Setelah Berhasil lalu langsung saja jalankan Toolsnya
+
+$python3 f.py
+
+
+Tinggal pilih kebutuhan anda Followers atau Like
+
+Jangan lupa subrek YT admin ya guys..
+
+Jika ada pertanyaan DM IG admin : @user_eror21yt
 
 # Subscribe To Our YouTube 
 https://youtube.com/c/FidelCastroMoDs
