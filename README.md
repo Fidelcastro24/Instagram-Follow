@@ -20,4 +20,4 @@ Pembuat R1punk
 # Subscribe To Our YouTube 
 https://youtube.com/c/FidelCastroMoDs
 
-Fidel Castro ©
+©Fidel Castro 
