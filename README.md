@@ -1,39 +1,33 @@
 # InstaTools
-Tools Ini Digunakan Untuk Nambah Followers Instragram Bisa Permanen Bisa Trial - Tergantung Server
-Gunakan Dengan Bijak Tools Ini 
-Pembuat R1punk 
-
+These Tools Are Used To Add Instagram Followers Can Be Permanent Can Be Trial - Depends on Server
+ Use these tools wisely
+  
 # Commands :
-    Perintah  Untuk Menjalankan Tools Auto FOLLOWERS IG
+  $ pkg update && pkg upgrade
+  $ pkg install python3
+  $ termux-setup-storage
 
+(if there is a pop up, just allow it.)
 
-$pkg update && pkg upgrade
-$pkg install python3
-$termux-setup-storage
-
-(jika ada Pop up Ijinkan Saja Ya Guys.)
-
-$ cd storage
-$ls
+  $ cd storage
+  $ ls
  
-Lalu Nanti akan Tampil Folder dimana kamu Menyimpan File toolsnya. Setelah Itu ketik perintah
+Then a folder will appear where you saved the tools file.  After that type the command
 
-$pip2 install -r requirement.txt
+  $pip2 install -r requirement.txt
 
-(Jika itu gagal) ketik yg di bawah ini
+(If it fails) type in the below
 
-$pip install -r reqruitmen.txt
+  $pip install -r reqruitmen.txt
 
-Setelah Berhasil lalu langsung saja jalankan Toolsnya
+If Success then just run the Tools
 
-$python3 f.py
+  $ python3 f.py
 
 
-Tinggal pilih kebutuhan anda Followers atau Like
+choose you needs Followers or Likes
 
-Jangan lupa subrek YT admin ya guys..
-
-Jika ada pertanyaan DM IG admin : @user_eror21yt
+All The Best User....
 
 # Subscribe To Our YouTube 
 https://youtube.com/c/FidelCastroMoDs
